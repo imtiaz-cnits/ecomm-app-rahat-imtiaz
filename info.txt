@@ -1,0 +1,6 @@
+MongoDB Atlas Infos - 
+
+user - ia64744
+pass - HOflMo4i6uVll7E7
+
+Connection String - mongodb+srv://ia64744:HOflMo4i6uVll7E7@e-commapp.bv3ueny.mongodb.net/
